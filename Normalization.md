@@ -59,4 +59,3 @@ Now, 70 becomes 1, indicating that it is one standard deviation above the mean.
 
 In summary, normalization helps ensure all features in your dataset contribute equally to your machine learning model, leading to better performance and more accurate predictions.
 
-Feel free to ask if you have any more questions! 😊
