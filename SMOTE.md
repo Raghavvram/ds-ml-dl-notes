@@ -25,4 +25,5 @@ Let's say you have a dataset with two classes: Class A (majority class) and Clas
 
 By doing this, you increase the number of examples in Class B, helping your model to learn better and make more accurate predictions for both classes.
 
-I hope this helps! If you have any more questions or need further clarification, feel free to ask!
+
+
