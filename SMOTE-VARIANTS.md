@@ -1,4 +1,4 @@
-Here’s a detailed explanation of the **SMOTE (Synthetic Minority Oversampling Technique)** 
+
 ---
 
 ### 1. **SMOTE (Synthetic Minority Oversampling Technique)** 
