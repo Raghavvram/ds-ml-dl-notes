@@ -87,6 +87,3 @@ Here’s a detailed explanation of the **SMOTE (Synthetic Minority Oversampling 
 - **Medical Diagnosis**: Safe_Level_SMOTE, SMOTE_ENN.
 - **Customer Churn Prediction**: SMOTE_TomekLinks, AHC.
 - **Anomaly Detection**: distance_SMOTE, MSMOTE.
-
-
-
