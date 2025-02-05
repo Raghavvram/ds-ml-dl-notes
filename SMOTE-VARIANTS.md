@@ -85,4 +85,4 @@
 - **Fraud Detection**: SMOTE, Borderline_SMOTE, ADASYN.
 - **Medical Diagnosis**: Safe_Level_SMOTE, SMOTE_ENN.
 - **Customer Churn Prediction**: SMOTE_TomekLinks, AHC.
-- **Anomaly Detection**: distance_SMOTE, MSMOTE.
+
