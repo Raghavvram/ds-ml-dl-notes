@@ -1,5 +1,4 @@
-Here’s a detailed explanation of the **SMOTE (Synthetic Minority Oversampling Technique)** and its various extensions, along with their use cases and examples in layman's terms. These techniques are used to handle **imbalanced datasets**, where one class (e.g., fraudulent transactions) is significantly underrepresented compared to another (e.g., legitimate transactions). 
-
+Here’s a detailed explanation of the **SMOTE (Synthetic Minority Oversampling Technique)** and its various extensions, along with their use cases and examples in layman's terms. These techniques are used to handle **imbalanced datasets**, 
 ---
 
 ### 1. **SMOTE (Synthetic Minority Oversampling Technique)** 
