@@ -82,7 +82,7 @@
 ---
 
 ### Summary of Use Cases:
-- **Fraud Detection**: SMOTE, Borderline_SMOTE, ADASYN.
+
 
 
 
