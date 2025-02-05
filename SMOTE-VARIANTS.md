@@ -90,4 +90,4 @@ Here’s a detailed explanation of the **SMOTE (Synthetic Minority Oversampling 
 
 ---
 
-These techniques help balance datasets, making machine learning models more effective at identifying rare but important cases. Each method has its strengths and is suited to specific types of data and problems.
+
