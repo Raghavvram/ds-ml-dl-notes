@@ -83,6 +83,6 @@
 
 ### Summary of Use Cases:
 - **Fraud Detection**: SMOTE, Borderline_SMOTE, ADASYN.
-- **Medical Diagnosis**: Safe_Level_SMOTE, SMOTE_ENN.
+
 
 
